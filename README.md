@@ -1,2 +1,2 @@
 # Start_Up_Template
-Start-up guide.
+<h2>For those interested in a start-up.</h2>
